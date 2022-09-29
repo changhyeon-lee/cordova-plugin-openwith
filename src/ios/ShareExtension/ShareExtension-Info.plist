@@ -27,7 +27,7 @@
 			<key>NSExtensionActivationRule</key>
 			<!-- string>TRUEPREDICATE</string -->
       <dict>
-        <key>NSExtensionActivationSupportsImageWithMaxCount</key>
+        <key>NSExtensionActivationSupportsFileWithMaxCount</key>
         <integer>1</integer>
         <!-- key>NSExtensionActivationSupportsMovieWithMaxCount</key>
         <integer>1</integer -->
